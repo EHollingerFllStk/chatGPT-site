@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Full-stack Developer",
+      "company": "Acme Inc.",
+      "location": "San Francisco, CA",
+      "description": "Acme Inc. is seeking a full-stack developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and Node.js.",
+      "applyLink": "https://example.com/apply/1"
+    },
+    {
+      "id": 2,
+      "title": "Front-end Developer",
+      "company": "Globex Corporation",
+      "location": "New York, NY",
+      "description": "Globex Corporation is seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and React.",
+      "applyLink": "https://example.com/apply/2"
+    },
+    {
+      "id": 3,
+      "title": "Back-end Developer",
+      "company": "Initech",
+      "location": "Chicago, IL",
+      "description": "Initech is seeking a back-end developer to join our team. The ideal candidate will have experience with Node.js, MongoDB, and REST APIs.",
+      "applyLink": "https://example.com/apply/3"
+    },
+    {
+      "id": 4,
+      "title": "Full-stack Engineer",
+      "company": "Umbrella Corporation",
+      "location": "Raccoon City, USA",
+      "description": "Umbrella Corporation is seeking a full-stack engineer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, React, Node.js, and SQL.",
+      "applyLink": "https://example.com/apply/4"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "company": "Stark Industries",
+      "location": "New York, NY",
+      "description": "Stark Industries is seeking a DevOps engineer to join our team. The ideal candidate will have experience with AWS, Docker, Kubernetes, and Jenkins.",
+      "applyLink": "https://example.com/apply/5"
+    }
+  ]
+  
