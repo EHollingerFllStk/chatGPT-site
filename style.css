@@ -115,3 +115,73 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+#featured-jobs {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#featured-jobs h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#job-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.job {
+  width: calc(33.33% - 10px);
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.job h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.job h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.job p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.job-apply-btn {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.job-apply-btn:hover {
+  background-color: #2980b9;
+}
+
+.job ul {
+  margin-bottom: 10px;
+}
+
+.job ul li:before {
+  content: "\2022";
+  color: #3498db;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}

@@ -1,43 +1,50 @@
-[
-    {
-      "id": 1,
-      "title": "Full-stack Developer",
-      "company": "Acme Inc.",
-      "location": "San Francisco, CA",
-      "description": "Acme Inc. is seeking a full-stack developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and Node.js.",
-      "applyLink": "https://example.com/apply/1"
-    },
-    {
-      "id": 2,
-      "title": "Front-end Developer",
-      "company": "Globex Corporation",
-      "location": "New York, NY",
-      "description": "Globex Corporation is seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and React.",
-      "applyLink": "https://example.com/apply/2"
-    },
-    {
-      "id": 3,
-      "title": "Back-end Developer",
-      "company": "Initech",
-      "location": "Chicago, IL",
-      "description": "Initech is seeking a back-end developer to join our team. The ideal candidate will have experience with Node.js, MongoDB, and REST APIs.",
-      "applyLink": "https://example.com/apply/3"
-    },
-    {
-      "id": 4,
-      "title": "Full-stack Engineer",
-      "company": "Umbrella Corporation",
-      "location": "Raccoon City, USA",
-      "description": "Umbrella Corporation is seeking a full-stack engineer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, React, Node.js, and SQL.",
-      "applyLink": "https://example.com/apply/4"
-    },
-    {
-      "id": 5,
-      "title": "DevOps Engineer",
-      "company": "Stark Industries",
-      "location": "New York, NY",
-      "description": "Stark Industries is seeking a DevOps engineer to join our team. The ideal candidate will have experience with AWS, Docker, Kubernetes, and Jenkins.",
-      "applyLink": "https://example.com/apply/5"
-    }
-  ]
+{
+    "featuredJobs": [
+      {
+        "id": 1,
+        "title": "Full Stack Developer",
+        "company": "Acme Corp",
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $120,000",
+        "description": "We are looking for a Full Stack Developer to join our team and help build our next generation web applications. The ideal candidate will have experience with React, Node.js, and PostgreSQL, and be comfortable working in a fast-paced startup environment.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "3+ years of experience with web application development",
+          "Experience with React, Node.js, and PostgreSQL",
+          "Ability to work independently and as part of a team"
+        ],
+        "applyUrl": "https://example.com/apply/1"
+      },
+      {
+        "id": 2,
+        "title": "Software Engineer",
+        "company": "TechCo",
+        "location": "New York, NY",
+        "salary": "$120,000 - $140,000",
+        "description": "We are seeking a highly skilled Software Engineer to work on our flagship product. The ideal candidate will have experience with Java, Python, and cloud infrastructure, and be passionate about developing high-quality, scalable software.",
+        "requirements": [
+          "Bachelor's or Master's degree in Computer Science or related field",
+          "5+ years of experience with software development",
+          "Experience with Java, Python, and cloud infrastructure",
+          "Strong analytical and problem-solving skills"
+        ],
+        "applyUrl": "https://example.com/apply/2"
+      },
+      {
+        "id": 3,
+        "title": "Front End Developer",
+        "company": "Digital Agency",
+        "location": "Los Angeles, CA",
+        "salary": "$80,000 - $100,000",
+        "description": "We are looking for a talented Front End Developer to join our team and help build beautiful, responsive websites. The ideal candidate will have experience with HTML, CSS, and JavaScript, and be able to work collaboratively with designers and back-end developers.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "2+ years of experience with front end development",
+          "Experience with HTML, CSS, and JavaScript",
+          "Strong attention to detail"
+        ],
+        "applyUrl": "https://example.com/apply/3"
+      }
+    ]
+  }
   
